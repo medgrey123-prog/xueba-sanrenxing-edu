@@ -9,7 +9,7 @@ description: Use when需要用“学霸三人行”Top 20样本中的教育判�
 
 本 Skill 蒸馏自一位抖音账号 271 条作品中按点赞排序的 Top 20（20 条视频，2026-08-08 抓取）。它提炼的是这组样本反复出现的判断方式，不宣称代表账号全部观点，也不替代教育政策、医学或心理诊断。涉及研究、政策、升学规则和具体产品时，先核实原始来源；不要把口播中的个人经验写成普遍定律。
 
-来源素材：`/Users/megrey/Documents/obsidian外挂大脑/99_Attachments/视频素材/douyin_top20/bundles/`
+来源素材：一组按点赞数排序的抖音公开视频转录与素材包（本地路径由使用者自行提供）。
 
 ## 一句话方法
 
@@ -132,6 +132,6 @@ description: Use when需要用“学霸三人行”Top 20样本中的教育判�
 
 ## 来源与样本
 
-- Top 20 清单：`/Users/megrey/Documents/obsidian外挂大脑/99_Attachments/视频素材/douyin_top20/awemes_top20.json`
-- 逐条转录与素材包：`/Users/megrey/Documents/obsidian外挂大脑/99_Attachments/视频素材/douyin_top20/transcripts/`、`bundles/`
+- Top 20 清单：本地素材目录中的 `awemes_top20.json`
+- 逐条转录与素材包：本地素材目录中的 `transcripts/`、`bundles/`
 - 原账号主页：`https://www.douyin.com/user/MS4wLjABAAAATc-I9lQdAZz4q_phrM60MynNjTLC5Epyu-8Vo2kGXvArovmd_evzp1yUtajbLyMr`
